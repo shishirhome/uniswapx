@@ -1,0 +1,29 @@
+{
+    "coordinatorPrivateKey": "0xb239d595137590b5c6331a8ec9798e56bc8cd5e5028a2c3e6a88bc5a16ad5a70",
+    "coordinatorPublicKey": "0xf86D3359ed9047662b1CF404Ac639E0742a483c2",
+
+    "UniversalRouter": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "Permit2Contract": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+    "V3Router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+    "V2Router": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+
+    "ExclusiveDutchOrderReactor": "0x6000da47483062A0D734Ba3dc7576Ce6A0B645C4",
+    "OrderQuoter": "0x54539967a06Fc0E3C3ED0ee320Eb67362D13C5fF",
+
+    "UniswapXOrdersEndpoint": "https://api.uniswap.org/v2/orders?orderStatus=open&chainId=1&limit=1",
+
+    "WETH": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "USDC": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "EUROC": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+    "DAI": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "nativePMM":"0x2008b6c3D07B061A84F790C035c2f6dC11A0be70" ,
+
+    "EXPAND_API_KEY": "D2zr9C7lLI2NjeIgj3RLo47JAOlNXVz19UrIKZZy",
+    "EXPAND_BASE_URL": "https://uat.expand.network",
+
+    "alicePublicKey": "0x93beB904Abf2B2E6B640E4a178103454162B3030",
+    "alicePrivateKey": "0x184c962465a9b8a2aedde6013734b199a5bc7d4ee6cd1a0fbcd11716a34e3132",
+    "bobPublicKey": "0xA900c63e2807fA2b3aD3C10fa6c4406424B71fbA",
+    "bobPrivateKey": "0xa8f74ac88b72991076d2a5df210ddc292ccdf344244d39b0c0d16d0cdea9c10f",
+    "anyPublicKey": "0xC771172AE08B5FC37B3AC3D445225928DE883876"
+}
